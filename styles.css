@@ -1,3 +1,9 @@
 h1 {
-color:blueviolet;    
+color:blueviolet;
+padding: 0 0 0 6%;  
+}
+
+img {
+width: 350px;    
+border-radius: 50%;
 }
